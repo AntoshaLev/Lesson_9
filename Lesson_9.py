@@ -1,4 +1,4 @@
-# Задание 1
+# Задание_1
 from time import sleep
 from datetime import datetime as dt
 
